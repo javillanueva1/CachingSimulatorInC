@@ -5,4 +5,5 @@ This is a collection of files which will simulate 4 different caching algorithms
 
 The programs which simulate these different algorithms are named 2Chance.c, lfu.c, lru.c, random.c
 In each of the directories,there is a file that can be used for testing named accesses.txt.
-There are more testing files found in Makefiles, Compiled Programs and Texts
+There are more testing files found in Makefiles, Compiled Programs and Texts.
+rngtexts also contains the testing texts. Finally, master_deque is where the implementation of the deque is found.
